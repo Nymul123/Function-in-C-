@@ -10,8 +10,8 @@ cout<<"Hi"<<endl;
 int main()
 {
     print();//Hi
-   char val=print();
-    cout << val << endl;
-    cout<<print();
+   char val=print();//Hi
+    cout << val << endl;//☻ show as output.
+    cout<<print();// Hi and 2 are showed in output.
     return 0;
 }
